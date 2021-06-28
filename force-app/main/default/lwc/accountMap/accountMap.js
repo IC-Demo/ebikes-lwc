@@ -8,11 +8,9 @@ import BILLING_STATE from '@salesforce/schema/Account.BillingState';
 import BILLING_STREET from '@salesforce/schema/Account.BillingStreet';
 
 const fields = [
-    BILLING_CITY,
-    BILLING_COUNTRY,
-    BILLING_POSTAL_CODE,
-    BILLING_STATE,
-    BILLING_STREET
+    A,
+    B,
+    C
 ];
 
 const fields = [
