@@ -15,6 +15,12 @@ const fields = [
     BILLING_STREET
 ];
 
+const fields = [
+    A,
+    B,
+    C
+];
+
 export default class PropertyMap extends LightningElement {
     @api recordId;
 
